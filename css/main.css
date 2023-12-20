@@ -225,7 +225,7 @@ a {
 @media (max-width: 992px) {
   .services {
     text-align: center;
-    width: 60%;
+    width: 90%;
     margin-right: auto;
     margin-left: auto;
     padding-top: 30px;
@@ -283,6 +283,7 @@ a {
 
 /* ARTICLES */
 .articles {
+  background-color: var(--Very-Light-Gray);
   padding-top: 70px;
   padding-bottom: 70px;
 }
@@ -328,6 +329,7 @@ a {
 
 /* ARTICLES ALT */
 .articles-alt {
+  background-color: var(--Very-Light-Gray);
   padding-top: 30px;
   padding-bottom: 30px;
 }
