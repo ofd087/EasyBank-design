@@ -117,7 +117,8 @@ a {
   width: 0;
   height: 4px;
   position: absolute;
-  left: 0;
+  left: 50%;
+  transform: translateX(-50%);
   bottom: -10px;
   background-image: var(--main-gradient);
   transition: 0.3s;
